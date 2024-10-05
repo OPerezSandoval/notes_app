@@ -1,2 +1,2 @@
-# notes_app
-Spring Boot note application deployed on Kubernetes 
+# Notes App 
+This is SpringBoot note application deployed on Kubernetes 
